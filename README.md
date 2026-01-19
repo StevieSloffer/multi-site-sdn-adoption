@@ -36,7 +36,7 @@ The process took place over the course of eight months, where we kept a slow but
 
 ## Outcomes
 * This initiative virtually eliminated site visits to just reboot something or make sure something was correctly plugged in–we knew if it was or wasn’t because we could see it on the dashboard
-* The SDN provided deep insight into how networks were actually being utilized
+* The SDN provided deep insight into how networks were actually being utilized, leading to operational changes and improvments
 * The SDN allowed for content filtering to be utilized, ending a significant network abuse issue that was not previously tracked or even known about. 
 * The equipment **just worked**, and unprecedented uptime and stability continues to enable a growing investment in internet-based business (online order, VoIP phones, DoorDash)
 * IT staff knows about network issues before store staff notice, and can start working on solutions right away, and are not waiting to be told about issues. 
