@@ -1,4 +1,4 @@
-# Network Modernization: SDN deployment across restaurant 60 sites 
+# Network Modernization: SDN deployment across 60 retail sites
 
 ## The problem
 Retail environments can sometimes lag behind the rest of the world when it comes to technology adoption. When I was brought on to help this company update their infrastructure, networks were completely non-standard, were largely using consumer grade networking gear, and required on-site intervention in order to change configurations and troubleshoot errors. They had grown to 60 retail locations who were relatively spread out across the state but didn’t have networking infrastructure to support their growth. While the devices were inexpensive, the labor to support them and the downtime resulting from their lack of reliability far outweighed the savings of getting these consumer grade tools. 
